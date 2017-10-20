@@ -1,0 +1,28 @@
+{
+  "name": "bender_server",
+  "version": "0.0.1",
+  "description": "Сервер для построения оптимального маршрута в эрмитаже",
+  "main": "server/app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -w",
+    "start": "node build/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boomans/bender_server.git"
+  },
+  "author": "Denis Stepanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boomans/bender_server/issues"
+  },
+  "homepage": "https://github.com/Boomans/bender_server#readme",
+  "dependencies": {
+    "@types/node": "^8.0.46",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "typescript": "^2.5.3",
+    "typings": "^2.1.1"
+  }
+}
