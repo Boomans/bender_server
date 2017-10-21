@@ -1,0 +1,2528 @@
+[
+  {
+    "roomId": 185,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 184,
+        "method": "cr"
+      },
+      {
+        "roomId": 186,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 184,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 185,
+        "method": "cr"
+      },
+      {
+        "roomId": 183,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 186,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 185,
+        "method": "cr"
+      },
+      {
+        "roomId": 187,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 187,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 189,
+        "method": "cr"
+      },
+      {
+        "roomId": 186,
+        "method": "cr"
+      },
+      {
+        "roomId": 190,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 189,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 188,
+        "method": "cr"
+      },
+      {
+        "roomId": 187,
+        "method": "cr"
+      },
+      {
+        "roomId": 155,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 188,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 189,
+        "method": "cr"
+      },
+      {
+        "roomId": 155,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 155,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 153,
+        "method": "cr"
+      },
+      {
+        "roomId": 156,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 183,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 184,
+        "method": "cr"
+      },
+      {
+        "roomId": 182,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 182,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 181,
+        "method": "cr"
+      },
+      {
+        "roomId": 183,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 181,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 180,
+        "method": "cr"
+      },
+      {
+        "roomId": 182,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 180,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 181,
+        "method": "cr"
+      },
+      {
+        "roomId": 179,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 179,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 178,
+        "method": "cr"
+      },
+      {
+        "roomId": 180,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 178,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 179,
+        "method": "cr"
+      },
+      {
+        "roomId": 177,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 177,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 178,
+        "method": "cr"
+      },
+      {
+        "roomId": 176,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 176,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 177,
+        "method": "cr"
+      },
+      {
+        "roomId": 175,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 175,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 176,
+        "method": "cr"
+      },
+      {
+        "roomId": 174,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 174,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 175,
+        "method": "cr"
+      },
+      {
+        "roomId": 303,
+        "method": "cr"
+      },
+      {
+        "roomId": "st2_2",
+        "method": "st"
+      }
+    ]
+  },
+  {
+    "roomId": 173,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 303,
+        "method": "cr"
+      },
+      {
+        "roomId": 172,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 172,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 173,
+        "method": "cr"
+      },
+      {
+        "roomId": 171,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 171,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 170,
+        "method": "cr"
+      },
+      {
+        "roomId": 172,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 170,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 171,
+        "method": "cr"
+      },
+      {
+        "roomId": 169,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 169,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 170,
+        "method": "cr"
+      },
+      {
+        "roomId": 168,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 168,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 169,
+        "method": "cr"
+      },
+      {
+        "roomId": 167,
+        "method": "cr"
+      },
+      {
+        "roomId": 307,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 307,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 168,
+        "method": "cr"
+      },
+      {
+        "roomId": 306,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 306,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 305,
+        "method": "cr"
+      },
+      {
+        "roomId": 307,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 305,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 304,
+        "method": "cr"
+      },
+      {
+        "roomId": 306,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 305,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 305,
+        "method": "cr"
+      },
+      {
+        "roomId": 289,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 289,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 304,
+        "method": "cr"
+      },
+      {
+        "roomId": 288,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 288,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 287,
+        "method": "cr"
+      },
+      {
+        "roomId": 298,
+        "method": "cr"
+      },
+      {
+        "roomId": 297,
+        "method": "cr"
+      },
+      {
+        "roomId": 308,
+        "method": "cr"
+      },
+      {
+        "roomId": "st2_5",
+        "method": "st"
+      }
+    ]
+  },
+  {
+    "roomId": 308,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": "st2_4",
+        "method": "st"
+      },
+      {
+        "roomId": "st2_5",
+        "method": "st"
+      },
+      {
+        "roomId": 288,
+        "method": "cr"
+      },
+      {
+        "roomId": 302,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 298,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 288,
+        "method": "cr"
+      },
+      {
+        "roomId": 297,
+        "method": "cr"
+      },
+      {
+        "roomId": 299,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 299,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 300,
+        "method": "cr"
+      },
+      {
+        "roomId": 288,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 300,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 299,
+        "method": "cr"
+      },
+      {
+        "roomId": 167,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 167,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 302,
+        "method": "cr"
+      },
+      {
+        "roomId": 303,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 302,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 167,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 166,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 165,
+        "method": "cr"
+      },
+      {
+        "roomId": 167,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 165,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 164,
+        "method": "cr"
+      },
+      {
+        "roomId": 166,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 164,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 163,
+        "method": "cr"
+      },
+      {
+        "roomId": 165,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 163,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 162,
+        "method": "cr"
+      },
+      {
+        "roomId": 164,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 162,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 161,
+        "method": "cr"
+      },
+      {
+        "roomId": 163,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 161,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 160,
+        "method": "cr"
+      },
+      {
+        "roomId": 162,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 160,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 159,
+        "method": "cr"
+      },
+      {
+        "roomId": 161,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 159,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 158,
+        "method": "cr"
+      },
+      {
+        "roomId": 160,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 158,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 157,
+        "method": "cr"
+      },
+      {
+        "roomId": 158,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 157,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 156,
+        "method": "cr"
+      },
+      {
+        "roomId": 158,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 156,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 157,
+        "method": "cr"
+      },
+      {
+        "roomId": 303,
+        "method": "cr"
+      },
+      {
+        "roomId": 155,
+        "method": "cr"
+      },
+      {
+        "roomId": "st2_1",
+        "method": "st"
+      }
+    ]
+  },
+  {
+    "roomId": 153,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 155,
+        "method": "cr"
+      },
+      {
+        "roomId": 190,
+        "method": "cr"
+      },
+      {
+        "roomId": 152,
+        "method": "cr"
+      },
+      {
+        "roomId": 191,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 190,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 153,
+        "method": "cr"
+      },
+      {
+        "roomId": 189,
+        "method": "cr"
+      },
+      {
+        "roomId": 191,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 191,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 190,
+        "method": "cr"
+      },
+      {
+        "roomId": 192,
+        "method": "cr"
+      },
+      {
+        "roomId": 151,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 152,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 153,
+        "method": "cr"
+      },
+      {
+        "roomId": 151,
+        "method": "cr"
+      },
+      {
+        "roomId": 151,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 151,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 191,
+        "method": "cr"
+      },
+      {
+        "roomId": 152,
+        "method": "cr"
+      },
+      {
+        "roomId": "el2_1",
+        "method": "el"
+      }
+    ]
+  },
+  {
+    "roomId": 192,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 191,
+        "method": "cr"
+      },
+      {
+        "roomId": 151,
+        "method": "cr"
+      },
+      {
+        "roomId": "el2_1",
+        "method": "el"
+      },
+      {
+        "roomId": "st2_3",
+        "method": "st"
+      }
+    ]
+  },
+  {
+    "roomId": 193,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 194,
+        "method": "cr"
+      },
+      {
+        "roomId": 200,
+        "method": "cr"
+      },
+      {
+        "roomId": 151,
+        "method": "cr"
+      },
+      {
+        "roomId": "el2_1",
+        "method": "el"
+      },
+      {
+        "roomId": "st2_3",
+        "method": "st"
+      }
+    ]
+  },
+  {
+    "roomId": 200,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 147,
+        "method": "cr"
+      },
+      {
+        "roomId": 146,
+        "method": "cr"
+      },
+      {
+        "roomId": 202,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 150,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 149,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 148,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 148,
+        "method": "cr"
+      },
+      {
+        "roomId": 150,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 148,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 147,
+        "method": "cr"
+      },
+      {
+        "roomId": 149,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 147,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 200,
+        "method": "cr"
+      },
+      {
+        "roomId": 148,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 146,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 145,
+        "method": "cr"
+      },
+      {
+        "roomId": 200,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 145,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 144,
+        "method": "cr"
+      },
+      {
+        "roomId": 146,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 144,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 145,
+        "method": "cr"
+      },
+      {
+        "roomId": 143,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 143,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 202,
+        "method": "cr"
+      },
+      {
+        "roomId": 144,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 202,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 200,
+        "method": "cr"
+      },
+      {
+        "roomId": 143,
+        "method": "cr"
+      },
+      {
+        "roomId": 203,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 203,
+    "floor": 2,
+    "building": "SmallHermitage",
+    "ways": [
+      {
+        "roomId": 259,
+        "method": "cr"
+      },
+      {
+        "roomId": 204,
+        "method": "cr"
+      },
+      {
+        "roomId": 202,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 204,
+    "floor": 2,
+    "building": "SmallHermitage",
+    "ways": [
+      {
+        "roomId": 203,
+        "method": "cr"
+      },
+      {
+        "roomId": 205,
+        "method": "cr"
+      },
+      {
+        "roomId": 206,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 205,
+    "floor": 2,
+    "building": "SmallHermitage",
+    "ways": [
+      {
+        "roomId": 204,
+        "method": "cr"
+      },
+      {
+        "roomId": 255,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 255,
+    "floor": 2,
+    "building": "SmallHermitage",
+    "ways": [
+      {
+        "roomId": 256,
+        "method": "cr"
+      },
+      {
+        "roomId": 205,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 256,
+    "floor": 2,
+    "building": "SmallHermitage",
+    "ways": [
+      {
+        "roomId": 255,
+        "method": "cr"
+      },
+      {
+        "roomId": 257,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 257,
+    "floor": 2,
+    "building": "SmallHermitage",
+    "ways": [
+      {
+        "roomId": 256,
+        "method": "cr"
+      },
+      {
+        "roomId": 258,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 258,
+    "floor": 2,
+    "building": "SmallHermitage",
+    "ways": [
+      {
+        "roomId": 248,
+        "method": "cr"
+      },
+      {
+        "roomId": 257,
+        "method": "cr"
+      },
+      {
+        "roomId": 262,
+        "method": "cr"
+      },
+      {
+        "roomId": 272,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 262,
+    "floor": 2,
+    "building": "SmallHermitage",
+    "ways": [
+      {
+        "roomId": 258,
+        "method": "cr"
+      },
+      {
+        "roomId": 261,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 261,
+    "floor": 2,
+    "building": "SmallHermitage",
+    "ways": [
+      {
+        "roomId": 259,
+        "method": "cr"
+      },
+      {
+        "roomId": 260,
+        "method": "cr"
+      },
+      {
+        "roomId": 262,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 259,
+    "floor": 2,
+    "building": "SmallHermitage",
+    "ways": [
+      {
+        "roomId": 203,
+        "method": "cr"
+      },
+      {
+        "roomId": 261,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 194,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 195,
+        "method": "cr"
+      },
+      {
+        "roomId": 193,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 195,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 194,
+        "method": "cr"
+      },
+      {
+        "roomId": 197,
+        "method": "cr"
+      },
+      {
+        "roomId": 196,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 197,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 198,
+        "method": "cr"
+      },
+      {
+        "roomId": 195,
+        "method": "cr"
+      },
+      {
+        "roomId": 270,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 198,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 187,
+        "method": "cr"
+      },
+      {
+        "roomId": 260,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 260,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 198,
+        "method": "cr"
+      },
+      {
+        "roomId": 261,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 196,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 270,
+        "method": "cr"
+      },
+      {
+        "roomId": 282,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 270,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 196,
+        "method": "cr"
+      },
+      {
+        "roomId": 187,
+        "method": "cr"
+      },
+      {
+        "roomId": 271,
+        "method": "cr"
+      },
+      {
+        "roomId": 269,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 271,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 270,
+        "method": "cr"
+      },
+      {
+        "roomId": 269,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 269,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 270,
+        "method": "cr"
+      },
+      {
+        "roomId": 268,
+        "method": "cr"
+      },
+      {
+        "roomId": "st2_6",
+        "method": "st"
+      },
+      {
+        "roomId": "el2_2",
+        "method": "el"
+      },
+      {
+        "roomId": 271,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 268,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": "st2_6",
+        "method": "st"
+      },
+      {
+        "roomId": "el2_2",
+        "method": "el"
+      },
+      {
+        "roomId": 267,
+        "method": "cr"
+      },
+      {
+        "roomId": 280,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 267,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 268,
+        "method": "cr"
+      },
+      {
+        "roomId": 266,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 266,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 267,
+        "method": "cr"
+      },
+      {
+        "roomId": 265,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 265,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 264,
+        "method": "cr"
+      },
+      {
+        "roomId": 266,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 265,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 263,
+        "method": "cr"
+      },
+      {
+        "roomId": 265,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 263,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 264,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 272,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 258,
+        "method": "cr"
+      },
+      {
+        "roomId": 273,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 273,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 272,
+        "method": "cr"
+      },
+      {
+        "roomId": 274,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 274,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 275,
+        "method": "cr"
+      },
+      {
+        "roomId": 273,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 275,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 276,
+        "method": "cr"
+      },
+      {
+        "roomId": 274,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 276,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 275,
+        "method": "cr"
+      },
+      {
+        "roomId": 277,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 277,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 276,
+        "method": "cr"
+      },
+      {
+        "roomId": 278,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 278,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 279,
+        "method": "cr"
+      },
+      {
+        "roomId": 277,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 279,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 278,
+        "method": "cr"
+      },
+      {
+        "roomId": 280,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 280,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 279,
+        "method": "cr"
+      },
+      {
+        "roomId": 281,
+        "method": "cr"
+      },
+      {
+        "roomId": "st2_6",
+        "method": "st"
+      },
+      {
+        "roomId": "el2_2",
+        "method": "el"
+      }
+    ]
+  },
+  {
+    "roomId": 281,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 280,
+        "method": "cr"
+      },
+      {
+        "roomId": 282,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 282,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 196,
+        "method": "cr"
+      },
+      {
+        "roomId": 290,
+        "method": "cr"
+      },
+      {
+        "roomId": 283,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 290,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 282,
+        "method": "cr"
+      },
+      {
+        "roomId": 291,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 291,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 290,
+        "method": "cr"
+      },
+      {
+        "roomId": 292,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 292,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 293,
+        "method": "cr"
+      },
+      {
+        "roomId": 291,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 293,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 292,
+        "method": "cr"
+      },
+      {
+        "roomId": 294,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 294,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 293,
+        "method": "cr"
+      },
+      {
+        "roomId": 295,
+        "method": "cr"
+      },
+      {
+        "roomId": 285,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 295,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 296,
+        "method": "cr"
+      },
+      {
+        "roomId": 294,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 296,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 297,
+        "method": "cr"
+      },
+      {
+        "roomId": 295,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 297,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 296,
+        "method": "cr"
+      },
+      {
+        "roomId": 298,
+        "method": "cr"
+      },
+      {
+        "roomId": 288,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 287,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 288,
+        "method": "cr"
+      },
+      {
+        "roomId": 286,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 286,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 285,
+        "method": "cr"
+      },
+      {
+        "roomId": 287,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 285,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 284,
+        "method": "cr"
+      },
+      {
+        "roomId": 286,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 284,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 285,
+        "method": "cr"
+      },
+      {
+        "roomId": 283,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 283,
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 284,
+        "method": "cr"
+      },
+      {
+        "roomId": 282,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 206,
+    "floor": 2,
+    "building": "BigHermitage",
+    "ways": [
+      {
+        "roomId": "st2_7",
+        "method": "st"
+      },
+      {
+        "roomId": 207,
+        "method": "cr"
+      },
+      {
+        "roomId": 254,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 207,
+    "floor": 2,
+    "building": "BigHermitage",
+    "ways": [
+      {
+        "roomId": 206,
+        "method": "cr"
+      },
+      {
+        "roomId": 208,
+        "method": "cr"
+      },
+      {
+        "roomId": 217,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 208,
+    "floor": 2,
+    "building": "BigHermitage",
+    "ways": [
+      {
+        "roomId": 207,
+        "method": "cr"
+      },
+      {
+        "roomId": 209,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 209,
+    "floor": 2,
+    "building": "BigHermitage",
+    "ways": [
+      {
+        "roomId": 208,
+        "method": "cr"
+      },
+      {
+        "roomId": 210,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 210,
+    "floor": 2,
+    "building": "BigHermitage",
+    "ways": [
+      {
+        "roomId": 209,
+        "method": "cr"
+      },
+      {
+        "roomId": 211,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 211,
+    "floor": 2,
+    "building": "BigHermitage",
+    "ways": [
+      {
+        "roomId": 210,
+        "method": "cr"
+      },
+      {
+        "roomId": 212,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 212,
+    "floor": 2,
+    "building": "BigHermitage",
+    "ways": [
+      {
+        "roomId": 211,
+        "method": "cr"
+      },
+      {
+        "roomId": 213,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 213,
+    "floor": 2,
+    "building": "BigHermitage",
+    "ways": [
+      {
+        "roomId": 212,
+        "method": "cr"
+      },
+      {
+        "roomId": 214,
+        "method": "cr"
+      },
+      {
+        "roomId": 220,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 214,
+    "floor": 2,
+    "building": "BigHermitage",
+    "ways": [
+      {
+        "roomId": 215,
+        "method": "cr"
+      },
+      {
+        "roomId": 213,
+        "method": "cr"
+      },
+      {
+        "roomId": 221,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 215,
+    "floor": 2,
+    "building": "BigHermitage",
+    "ways": [
+      {
+        "roomId": 214,
+        "method": "cr"
+      },
+      {
+        "roomId": 216,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 216,
+    "floor": 2,
+    "building": "BigHermitage",
+    "ways": [
+      {
+        "roomId": 226,
+        "method": "cr"
+      },
+      {
+        "roomId": 225,
+        "method": "cr"
+      },
+      {
+        "roomId": 223,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 226,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 227,
+        "method": "cr"
+      },
+      {
+        "roomId": 229,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 229,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 230,
+        "method": "cr"
+      },
+      {
+        "roomId": 237,
+        "method": "cr"
+      },
+      {
+        "roomId": 226,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 230,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 229,
+        "method": "cr"
+      },
+      {
+        "roomId": 237,
+        "method": "cr"
+      },
+      {
+        "roomId": 231,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 237,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 227,
+        "method": "cr"
+      },
+      {
+        "roomId": 242,
+        "method": "cr"
+      },
+      {
+        "roomId": 229,
+        "method": "cr"
+      },
+      {
+        "roomId": 238,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 238,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 237,
+        "method": "cr"
+      },
+      {
+        "roomId": 241,
+        "method": "cr"
+      },
+      {
+        "roomId": 233,
+        "method": "cr"
+      },
+      {
+        "roomId": 239,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 231,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 230,
+        "method": "cr"
+      },
+      {
+        "roomId": 232,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 232,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 231,
+        "method": "cr"
+      },
+      {
+        "roomId": 233,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 233,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 232,
+        "method": "cr"
+      },
+      {
+        "roomId": 234,
+        "method": "cr"
+      },
+      {
+        "roomId": 238,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 234,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 235,
+        "method": "cr"
+      },
+      {
+        "roomId": 233,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 235,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 234,
+        "method": "cr"
+      },
+      {
+        "roomId": 236,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 236,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 235,
+        "method": "cr"
+      },
+      {
+        "roomId": 240,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 254,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 253,
+        "method": "cr"
+      },
+      {
+        "roomId": "st2_7",
+        "method": "st"
+      },
+      {
+        "roomId": 252,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 253,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 254,
+        "method": "cr"
+      },
+      {
+        "roomId": 240,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 240,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 236,
+        "method": "cr"
+      },
+      {
+        "roomId": 253,
+        "method": "cr"
+      },
+      {
+        "roomId": 252,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 252,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 254,
+        "method": "cr"
+      },
+      {
+        "roomId": 240,
+        "method": "cr"
+      },
+      {
+        "roomId": 251,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 251,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 252,
+        "method": "cr"
+      },
+      {
+        "roomId": 239,
+        "method": "cr"
+      },
+      {
+        "roomId": 250,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 250,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 251,
+        "method": "cr"
+      },
+      {
+        "roomId": 249,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 239,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 240,
+        "method": "cr"
+      },
+      {
+        "roomId": 251,
+        "method": "cr"
+      },
+      {
+        "roomId": 238,
+        "method": "cr"
+      },
+      {
+        "roomId": 241,
+        "method": "cr"
+      },
+      {
+        "roomId": "st2_8",
+        "method": "st"
+      },
+      {
+        "roomId": "el2_3",
+        "method": "el"
+      }
+    ]
+  },
+  {
+    "roomId": 241,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 239,
+        "method": "cr"
+      },
+      {
+        "roomId": 242,
+        "method": "cr"
+      },
+      {
+        "roomId": 238,
+        "method": "cr"
+      },
+      {
+        "roomId": "st2_8",
+        "method": "st"
+      },
+      {
+        "roomId": "el2_3",
+        "method": "el"
+      },
+      {
+        "roomId": "st2_9",
+        "method": "st"
+      }
+    ]
+  },
+  {
+    "roomId": 227,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 226,
+        "method": "cr"
+      },
+      {
+        "roomId": 237,
+        "method": "cr"
+      },
+      {
+        "roomId": 244,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 243,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 242,
+        "method": "cr"
+      },
+      {
+        "roomId": 244,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 244,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 227,
+        "method": "cr"
+      },
+      {
+        "roomId": 243,
+        "method": "cr"
+      },
+      {
+        "roomId": 245,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 245,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 244,
+        "method": "cr"
+      },
+      {
+        "roomId": 246,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 246,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 245,
+        "method": "cr"
+      },
+      {
+        "roomId": 247,
+        "method": "cr"
+      },
+      {
+        "roomId": "st2_9",
+        "method": "st"
+      }
+    ]
+  },
+  {
+    "roomId": 247,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 246,
+        "method": "cr"
+      },
+      {
+        "roomId": 248,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 248,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 249,
+        "method": "cr"
+      },
+      {
+        "roomId": 247,
+        "method": "cr"
+      },
+      {
+        "roomId": 258,
+        "method": "cr"
+      }
+    ]
+  },
+  {
+    "roomId": 249,
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 250,
+        "method": "cr"
+      },
+      {
+        "roomId": 248,
+        "method": "cr"
+      }
+    ]
+  }
+]

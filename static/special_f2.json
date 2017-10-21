@@ -1,0 +1,166 @@
+[
+  {
+    "roomId": "st2_1",
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 24,
+        "method": "st"
+      },
+      {
+        "roomId": 11,
+        "method": "st"
+      },
+      {
+        "roomId": 397,
+        "method": "st"
+      }
+    ]
+  },
+  {
+    "roomId": "st2_2",
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 27,
+        "method": "st"
+      }
+    ]
+  },
+  {
+    "roomId": "st2_3",
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 11,
+        "method": "st"
+      },
+      {
+        "roomId": 100,
+        "method": "st"
+      }
+    ]
+  },
+  {
+    "roomId": "st2_4",
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 69,
+        "method": "st"
+      }
+    ]
+  },
+  {
+    "roomId": "st2_5",
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 333,
+        "method": "st"
+      },
+      {
+        "roomId": 376,
+        "method": "st"
+      },
+      {
+        "roomId": 358,
+        "method": "st"
+      }
+    ]
+  },
+  {
+    "roomId": "st2_6",
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 91,
+        "method": "st"
+      },
+      {
+        "roomId": 314,
+        "method": "st"
+      }
+    ]
+  },
+  {
+    "roomId": "st2_7",
+    "floor": 2,
+    "building": "BigHermitage",
+    "ways": [
+      {
+        "roomId": 131,
+        "method": "st"
+      }
+    ]
+  },
+  {
+    "roomId": "st2_8",
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 106,
+        "method": "st"
+      }
+    ]
+  },
+  {
+    "roomId": "st2_9",
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 110,
+        "method": "st"
+      }
+    ]
+  },
+  {
+    "roomId": "el2_1",
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 11,
+        "method": "st"
+      },
+      {
+        "roomId": 100,
+        "method": "st"
+      },
+      {
+        "roomId": "ws1_4",
+        "method": "st"
+      }
+    ]
+  },
+  {
+    "roomId": "el2_2",
+    "floor": 2,
+    "building": "WinterPlace",
+    "ways": [
+      {
+        "roomId": 91,
+        "method": "st"
+      }
+    ]
+  },
+  {
+    "roomId": "el2_3",
+    "floor": 2,
+    "building": "NewHermitage",
+    "ways": [
+      {
+        "roomId": 106,
+        "method": "st"
+      }
+    ]
+  }
+]
