@@ -1,0 +1,32 @@
+[
+  {
+    "roomId": "st3_1",
+    "floor": 3,
+    "building": "WinterPlace",
+    "ways": [397, "st2_1"]
+  },
+  {
+    "roomId": "st3_2",
+    "floor": 3,
+    "building": "WinterPlace",
+    "ways": [367, 351, 381, "st2_2"]
+  },
+  {
+    "roomId": "st3_3",
+    "floor": 3,
+    "building": "WinterPlace",
+    "ways": [333, 358, 376, 350, "st2_5"]
+  },
+  {
+    "roomId": "st3_4",
+    "floor": 3,
+    "building": "WinterPlace",
+    "ways": [314, "st2_6", "el4_1"]
+  },
+  {
+    "roomId": "el4_1",
+    "floor": 3,
+    "building": "WinterPlace",
+    "ways": [314, "st3_4", "el2_2"]
+  }
+]

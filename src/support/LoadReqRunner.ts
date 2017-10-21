@@ -15,9 +15,8 @@ class LoadReqRunner{
                 const loadBuff = JSON.parse(result.body);
                 this._loadData = new Map();
                 loadBuff.data.forEach(elem => {
-                    this._loadData.set(elem.num, elem.count);
+                    this._loadData.set(String(elem.num), elem.count);
                 });
-                //console.log('load data update');
             } catch (e) {
                 //TODO логируем
             }

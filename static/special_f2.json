@@ -5,15 +5,19 @@
     "building": "WinterPlace",
     "ways": [
       {
-        "roomId": 24,
+        "roomId": "st1_2",
         "method": "st"
       },
       {
-        "roomId": 11,
+        "roomId": "st3_1",
         "method": "st"
       },
       {
-        "roomId": 397,
+        "roomId": 156,
+        "method": "st"
+      },
+      {
+        "roomId": 153,
         "method": "st"
       }
     ]
@@ -24,7 +28,15 @@
     "building": "WinterPlace",
     "ways": [
       {
-        "roomId": 27,
+        "roomId": 174,
+        "method": "st"
+      },
+      {
+        "roomId": "st1_1",
+        "method": "st"
+      },
+      {
+        "roomId": "st3_2",
         "method": "st"
       }
     ]
@@ -35,11 +47,15 @@
     "building": "WinterPlace",
     "ways": [
       {
-        "roomId": 11,
+        "roomId": 192,
         "method": "st"
       },
       {
-        "roomId": 100,
+        "roomId": "st1_7",
+        "method": "st"
+      },
+      {
+        "roomId": 193,
         "method": "st"
       }
     ]
@@ -50,7 +66,11 @@
     "building": "WinterPlace",
     "ways": [
       {
-        "roomId": 69,
+        "roomId": 308,
+        "method": "st"
+      },
+      {
+        "roomId": "st1_3",
         "method": "st"
       }
     ]
@@ -61,15 +81,15 @@
     "building": "WinterPlace",
     "ways": [
       {
-        "roomId": 333,
+        "roomId": 302,
         "method": "st"
       },
       {
-        "roomId": 376,
+        "roomId": 308,
         "method": "st"
       },
       {
-        "roomId": 358,
+        "roomId": "st3_3",
         "method": "st"
       }
     ]
@@ -80,11 +100,23 @@
     "building": "WinterPlace",
     "ways": [
       {
-        "roomId": 91,
+        "roomId": "el2_2",
         "method": "st"
       },
       {
-        "roomId": 314,
+        "roomId": 268,
+        "method": "st"
+      },
+      {
+        "roomId": 280,
+        "method": "st"
+      },
+      {
+        "roomId": "st1_4",
+        "method": "st"
+      },
+      {
+        "roomId": "st3_4",
         "method": "st"
       }
     ]
@@ -95,7 +127,11 @@
     "building": "BigHermitage",
     "ways": [
       {
-        "roomId": 131,
+        "roomId": 206,
+        "method": "st"
+      },
+      {
+        "roomId": "st1_5",
         "method": "st"
       }
     ]
@@ -106,7 +142,15 @@
     "building": "NewHermitage",
     "ways": [
       {
-        "roomId": 106,
+        "roomId": 241,
+        "method": "st"
+      },
+      {
+        "roomId": "el2_3",
+        "method": "st"
+      },
+      {
+        "roomId": "st1_8",
         "method": "st"
       }
     ]
@@ -117,7 +161,15 @@
     "building": "NewHermitage",
     "ways": [
       {
-        "roomId": 110,
+        "roomId": 241,
+        "method": "st"
+      },
+      {
+        "roomId": 246,
+        "method": "st"
+      },
+      {
+        "roomId": "st1_6",
         "method": "st"
       }
     ]
@@ -128,15 +180,19 @@
     "building": "WinterPlace",
     "ways": [
       {
-        "roomId": 11,
+        "roomId": 193,
         "method": "st"
       },
       {
-        "roomId": 100,
+        "roomId": 151,
         "method": "st"
       },
       {
-        "roomId": "ws1_4",
+        "roomId": 192,
+        "method": "st"
+      },
+      {
+        "roomId": "el1_2",
         "method": "st"
       }
     ]
@@ -147,7 +203,27 @@
     "building": "WinterPlace",
     "ways": [
       {
-        "roomId": 91,
+        "roomId": 269,
+        "method": "st"
+      },
+      {
+        "roomId": 280,
+        "method": "st"
+      },
+      {
+        "roomId": 268,
+        "method": "st"
+      },
+      {
+        "roomId": "st2_6",
+        "method": "st"
+      },
+      {
+        "roomId": "el1_3",
+        "method": "st"
+      },
+      {
+        "roomId": "el4_1",
         "method": "st"
       }
     ]
@@ -158,7 +234,19 @@
     "building": "NewHermitage",
     "ways": [
       {
-        "roomId": 106,
+        "roomId": 241,
+        "method": "st"
+      },
+      {
+        "roomId": 239,
+        "method": "st"
+      },
+      {
+        "roomId": "st2_8",
+        "method": "st"
+      },
+      {
+        "roomId": "el1_1",
         "method": "st"
       }
     ]

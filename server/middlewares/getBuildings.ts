@@ -1,11 +1,12 @@
 import {sendData, Success, Error} from '../../src/support/http';
 import LoadReqRunner from '../../src/support/LoadReqRunner';
 import GraphData from '../../src/support/GraphData';
+import getLoadById from "../../src/support/getLoadById";
 
 let loadData;
 let graphData;
 
-module.exports = (req, res) => {
+module.exports = (pool) => (req, res) => {
     analyse().then(result => {
         sendData(res, Success(result));
     }).catch(err => {
@@ -29,7 +30,7 @@ async function analyse() {
         let cache = buildingHash[key];
         if (cache) {
             cache.count++;
-            cache.load += loadData.get(room.roomId);
+            cache.load += loadData.get(room.roomId) || getLoadById(room.roomId);
         } else {
             buildingHash[key] = {
                 count: 1,

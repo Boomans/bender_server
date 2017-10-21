@@ -6,16 +6,22 @@ const bodyParser = require('body-parser');
 
 const getRouteMiddleware = require('./middlewares/getRoute');
 const getBuildingsMiddleware = require('./middlewares/getBuildings');
+const CONFIG = require('./db-config');
 
 import LoadReqRunner from '../src/support/LoadReqRunner';
+
+const {Pool} = require('pg');
+const pool = new Pool(
+    CONFIG.database
+);
 
 const app = express()
     .use(bodyParser.json())
     .get('/ping', (req, res) => {
         res.send('ping');
     })
-    .get('/get-route', getRouteMiddleware)
-    .get('/get-buildings', getBuildingsMiddleware);
+    .get('/get-route', getRouteMiddleware(pool))
+    .get('/get-buildings', getBuildingsMiddleware(pool));
 
 app.use('/static', express.static('/static'));
 
@@ -24,4 +30,4 @@ app.listen(PORT, () => {
 });
 
 LoadReqRunner.start();
-GraphData.read();
+GraphData.read(pool);

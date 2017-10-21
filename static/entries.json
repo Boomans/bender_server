@@ -1,0 +1,32 @@
+[
+  {
+    "roomId": "g_en1",
+    "floor": 1,
+    "building": "WinterPlace",
+    "ways": [11, 100, "el1_2", "st1_7", "ws1_4", "cf1_1", "en1", "st1_2", 91]
+  },
+  {
+    "roomId": "en2",
+    "floor": 1,
+    "building": "WinterPlace",
+    "ways": [11, 100, "el1_2", "st1_7", "ws1_4", "cf1_1", "en1", "st1_2", 91]
+  },
+  {
+    "roomId": "en1",
+    "floor": 1,
+    "building": "WinterPlace",
+    "ways": [11, 100, "el1_2", "st1_7", "ws1_4", "cf1_1", "en1", "st1_2", 91]
+  },
+  {
+    "roomId": "en3",
+    "floor": 1,
+    "building": "WinterPlace",
+    "ways": ["en1"]
+  },
+  {
+    "roomId": "g_en2",
+    "floor": 1,
+    "building": "WinterPlace",
+    "ways": ["ws1_2", "el1_3", "st1_4", 91]
+  }
+]

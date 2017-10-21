@@ -1,4 +1,5 @@
 import {IRoom} from "../graphModels/Room";
+import getLoadById from "../support/getLoadById";
 
 const SPECIALS_PREFIX = ['ws'];
 
@@ -6,31 +7,28 @@ export default class AdjMatrix{
     private loadData: Map<string | number, number>;
     private matrix: Map<any, any>;
     private graphMap: Map<any, IRoom>;
-    private graphArray: Array<IRoom>;
-    constructor(graphArray: Array<IRoom>, loadData: Map<string | number, number>) {
-        this.graphMap = new Map();
-        this.graphArray = graphArray;
+    constructor(graphMap: Map<any, IRoom>, loadData: Map<string | number, number>) {
+        this.graphMap = graphMap;
         this.loadData = loadData;
     }
 
     async createMatrix() {
-        await this._sort(this.graphArray);
-        this.graphArray.forEach(room => {
+        this.graphMap.forEach(room => {
             room.load = this.loadData.get(room.roomId);
             if (!room.load) {
-                room.load = 0.00001;
+                room.load = getLoadById(room.roomId); // TODO определять тип и назначать правильный load
             }
-            this.graphMap.set(room.roomId, room);
         });
         let matrix = new Map();
         this.graphMap.forEach(roomA => {
             let subMatrix = new Map();
             matrix.set(roomA.roomId, subMatrix);
             this.graphMap.forEach(roomB => {
-                subMatrix.set(roomB.roomId, this._getWeight(roomA.roomId, roomB));
+                subMatrix.set(roomB.roomId, AdjMatrix._getWeight(roomA.roomId, roomB));
             });
         });
         this.matrix = matrix;
+        //this._printMatrix(this.matrix);
     }
 
     _printMatrix(matrix) {
@@ -49,7 +47,7 @@ export default class AdjMatrix{
     }
 
     //Алгоритм Дейкстры
-    async getEasiestPaths(from: string | number, to: string | number) {
+    async getEasiestPaths(from: string, to: string) {
         const INF = Number.MAX_SAFE_INTEGER;
         const ans = new Map();
         const parents = new Map();
@@ -96,10 +94,10 @@ export default class AdjMatrix{
         });
     }
 
-    _getWeight(roomId, room) {
+    static _getWeight(roomId, room) {
         if (roomId === room.roomId || !room.ways) return 0;
         for (let i = 0; i < room.ways.length; i++) {
-            if (room.ways[i].roomId === roomId) return room.load;
+            if (room.ways[i] === roomId) return room.load;
         }
         return 0;
     }
