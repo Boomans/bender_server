@@ -23,7 +23,7 @@ const app = express()
     .get('/get-route', getRouteMiddleware(pool))
     .get('/get-buildings', getBuildingsMiddleware(pool));
 
-app.use('/static', express.static('/static'));
+app.use('/static', express.static('static'));
 
 app.listen(PORT, () => {
     console.log(`Server listen ${PORT} port`)
