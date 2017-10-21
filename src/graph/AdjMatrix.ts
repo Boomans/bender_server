@@ -1,8 +1,6 @@
 import {IRoom} from "../graphModels/Room";
 import getLoadById from "../support/getLoadById";
 
-const SPECIALS_PREFIX = ['ws'];
-
 export default class AdjMatrix{
     private loadData: Map<string | number, number>;
     private matrix: Map<any, any>;

@@ -34,7 +34,7 @@ async function analyse() {
         } else {
             buildingHash[key] = {
                 count: 1,
-                load: loadData.get(room.roomId)
+                load: loadData.get(room.roomId) || getLoadById(room.roomId)
             };
         }
     });
