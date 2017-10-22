@@ -13,6 +13,13 @@ Bender server
 
 > **GET /get-buildings/** - возвращает данные о занятости по зданиям</br>
 
+- st - лестница
+- ws - туалет
+- сf - кафе
+- g_en - груповой вход
+- en - вход
+- el - лифт
+
 ![Floor1](./static/img/floor1.png)
 ![Floor2](./static/img/floor2.png)
 ![Floor3](./static/img/floor3.png)
