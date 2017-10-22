@@ -1,7 +1,6 @@
 import {sendData, Success, Error} from '../../src/support/http';
-import LoadReqRunner from '../../src/support/LoadReqRunner';
-import GraphData from '../../src/support/GraphData';
 import getLoadById from "../../src/support/getLoadById";
+import getMainData from "../../src/support/getMainData";
 
 let loadData;
 let graphData;
@@ -15,14 +14,9 @@ module.exports = (pool) => (req, res) => {
 };
 
 async function analyse() {
-    loadData = LoadReqRunner.getData();
-    if (!loadData) {
-        throw 'Load data is not ready';
-    }
-    graphData = GraphData.getData();
-    if (!graphData) {
-        throw 'Graph data is not ready';
-    }
+    const mainData = getMainData();
+    loadData = mainData.loadData;
+    graphData = mainData.graphData;
 
     const buildingHash = {};
     graphData.forEach(room => {
