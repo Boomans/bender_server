@@ -11,10 +11,10 @@ export function Success(data: object): ClientResponse {
     };
 }
 
-export function Error(desc?: string): ClientResponse {
+export function Error(err: any): ClientResponse {
     return {
         result: 'ERR',
-        errorDescription: desc
+        errorDescription: err.detail || err.message || err
     }
 }
 

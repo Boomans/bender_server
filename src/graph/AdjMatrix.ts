@@ -99,15 +99,4 @@ export default class AdjMatrix{
         }
         return 0;
     }
-
-    _sort(arr: Array<IRoom>) {
-        arr.sort((a, b) => {
-            let tA = typeof a.roomId;
-            let tB = typeof b.roomId;
-            if (tA === tB) {
-                if (tA === 'number') return a.roomId - b.roomId;
-            }
-            return typeof tA === 'string' ? 1 : -1;
-        });
-    }
 }

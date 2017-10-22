@@ -13,10 +13,11 @@ class LoadReqRunner{
             try {
                 const result = await got(this._LOAD_DATA_URL);
                 const loadBuff = JSON.parse(result.body);
-                this._loadData = new Map();
+                const buff = new Map();
                 loadBuff.data.forEach(elem => {
-                    this._loadData.set(String(elem.num), elem.count);
+                    buff.set(String(elem.num), elem.count);
                 });
+                this._loadData = buff;
             } catch (e) {
                 //TODO логируем
             }

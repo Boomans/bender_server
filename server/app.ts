@@ -6,6 +6,8 @@ const bodyParser = require('body-parser');
 
 const getRouteMiddleware = require('./middlewares/getRoute');
 const getBuildingsMiddleware = require('./middlewares/getBuildings');
+const getRoomsMiddleware = require('./middlewares/getRooms');
+
 const CONFIG = require('./db-config');
 
 import LoadReqRunner from '../src/support/LoadReqRunner';
@@ -21,7 +23,8 @@ const app = express()
         res.send('ping');
     })
     .get('/get-route', getRouteMiddleware(pool))
-    .get('/get-buildings', getBuildingsMiddleware(pool));
+    .get('/get-buildings', getBuildingsMiddleware(pool))
+    .get('/get-rooms', getRoomsMiddleware(pool));
 
 app.use('/static', express.static('static'));
 
